@@ -73,4 +73,8 @@ public class TestCalculatorModel {
 
     }
 
+    @Test
+    public void alwaysFail() {
+        fail();
+    }
 }
