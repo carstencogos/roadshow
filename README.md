@@ -3,7 +3,7 @@ RoadShow
 This is the source for the continuous delivery road show.
 
 # Repositories
-We use two repositories for our show case that includes pretested commits.
+We use two repositories for our show case that includes pretested commits. xxx
 
 ## RoadShow
 * https://github.com/Praqma/RoadShow
