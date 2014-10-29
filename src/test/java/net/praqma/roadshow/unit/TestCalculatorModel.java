@@ -3,6 +3,7 @@ package net.praqma.roadshow.unit;
 import net.praqma.roadshow.model.CalculatorModel;
 import net.praqma.roadshow.model.CalculatorModelImpl;
 import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.*;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
@@ -75,6 +76,6 @@ public class TestCalculatorModel {
 
     @Test
     public void alwaysFail() {
-        Assert.fail();
+        fail();
     }
 }
